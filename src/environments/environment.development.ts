@@ -1,3 +1,3 @@
 export const environment = {
-  gameServer: 'ws://localhost:2567',
+  gameServer: 'ws://two1-online.onrender.com',
 };
